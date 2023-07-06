@@ -1,3 +1,4 @@
+Ensure your pc is connected to the internet
 click the Windows button
 Type 'powershell' on the search bar
 Run powershell
